@@ -4,3 +4,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moosedookie&style=flat-square" alt="moosedookie" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=moosedookie&show_icons=true&hide_border=true&theme=radical" alt="moosedookie" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moosedookie&show_icons=true&theme=radical" alt="moosedookie" /></p>
